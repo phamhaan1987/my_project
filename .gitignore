@@ -8,4 +8,6 @@ alo
 /*.xyz
 
 # bo qua file abc.txt trong second_folder
-second_folder/*.txt
+second_folder/abc.txt
+
+second_folder\my.txt

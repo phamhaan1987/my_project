@@ -6,3 +6,6 @@ alo
 
 # bo qua file abc.xyz nhung van giu lai myfile.xyz
 /*.xyz
+
+# bo qua file abc.txt trong second_folder
+second_folder/*.txt

@@ -1,0 +1,5 @@
+# comment alo alo/ -> git khong theo doi thu muc alo
+alo
+
+# bo qua tat ca cac fil co duoi la .log
+*.log

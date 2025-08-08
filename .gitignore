@@ -3,3 +3,6 @@ alo
 
 # bo qua tat ca cac fil co duoi la .log
 *.log
+
+# bo qua file abc.xyz nhung van giu lai myfile.xyz
+/*.xyz
